@@ -2,10 +2,6 @@
 Hi! My name is Aldrin John M. Garcia, a 1st year IT student. I strive to learn a lot from this course, and apply my skills into the real world! 
 I am dependable and can work with anybody!
 
-# About Me
-Hi! My name is Aldrin John M. Garcia, a 1st year IT student. I strive to learn a lot from this course, and apply my skills into the real world! 
-I am dependable and can work with anybody!
-
 # Education
 Pre-School: 
 Goldquest Sped Center (2010-2014)
