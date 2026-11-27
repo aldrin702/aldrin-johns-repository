@@ -24,4 +24,4 @@ College:
 - National University Clark (2026-present)
 
  # My Projects
- 
+ https://github.com/aldrin702/aldrin-johns-repository/tree/088baa8a46d0ff99786908f69bae2a0229a90bde/StudentGradeMan
