@@ -1,5 +1,5 @@
 # About Me
-![My face should be in here](images/2x2 (35).png)
+![My face should be in here](https://github.com/aldrin702/aldrin-johns-repository/blob/57c46410fee54ab92d70beb858562a644116b660/2x2%20(35).png)
 
 Hi! My name is Aldrin John M. Garcia, a 1st year IT student. I strive to learn a lot from this course, and apply my skills into the real world! 
 I am dependable and can work with anybody!
