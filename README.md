@@ -12,8 +12,8 @@ Royal International School (2014-2020)
 High School:
 - Eastern Porac National High School (2020-2022)
 - Royal International School (2022-2026)
-  College:
-  - National University Clark (2026-present)
+College:
+- National University Clark (2026-present)
 
  # My Projects
  
