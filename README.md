@@ -7,11 +7,11 @@ I am dependable and can work with anybody!
 # Education
 Pre-School: 
 
-Goldquest Sped Center (2010-2014)
-
+- Goldquest Sped Center (2010-2014)
 
 Elementary: 
-Royal International School (2014-2020)
+
+- Royal International School (2014-2020)
 
 High School:
 
