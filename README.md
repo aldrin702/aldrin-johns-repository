@@ -1,5 +1,6 @@
 # About Me
-(images/2x2 (35).png)
+![My face should be in here](images/2x2 (35).png)
+
 Hi! My name is Aldrin John M. Garcia, a 1st year IT student. I strive to learn a lot from this course, and apply my skills into the real world! 
 I am dependable and can work with anybody!
 
